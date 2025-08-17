@@ -1,1 +1,1 @@
-[![CI Build](https://github.com/elnama17/mlops-intro/actions/workflows/ci-build.yaml/badge.svg?branch=main)](https://github.com/elnama17/mlops-intro/actions/workflows/ci-build.yaml)
+[![CI/CD Pipeline](https://github.com/elnama17/mlops-intro/actions/workflows/ci-cd.yaml/badge.svg?branch=main)](https://github.com/elnama17/mlops-intro/actions/workflows/ci-cd.yaml)
