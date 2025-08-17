@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+python-multipart       # if you handle file uploads
+requests               # if your backend makes HTTP calls
